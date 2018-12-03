@@ -1,0 +1,106 @@
+.container {
+    margin-top: 50px;
+  }
+  div {border: 1px solid black; min-height:50px;}
+  
+  .col {
+    height: 500px;
+    border: none
+  }
+  
+  .grey {
+    background: grey;
+  }
+  
+  .yellow {
+    background: yellow;
+  }
+  
+  .cyan {
+    background: cyan;
+  }
+  
+  .green {
+    background: green;
+  }
+  
+  .pink {
+    background: fuchsia;
+  }
+  
+  .red {
+    background: red;
+  }
+  
+  .blue {
+    background: blue;
+  }
+  
+  .col.fila2 {
+    height: 80px;
+  }
+  
+  .black {
+    background: black;
+  }
+  
+  .col.fila3 {
+    height: 80px;
+  }
+  
+  .grad1 {
+    background-image: linear-gradient(to right, white , black);
+  }
+  
+  .col.cubo {
+    height: 80px;
+  }
+  
+  .uno {
+    background: #000000
+  }
+  
+  .dos {
+    background: #191919
+  }
+  
+  .tres {
+    background: #232423
+  }
+  
+  .cuatro {
+    background: #2E2E2D
+  }
+  
+  .cinco {
+    background: #383836
+  }
+  
+  .seis {
+    background: #424240
+  }
+  
+  .siete {
+    background: #4E4F4D
+  }
+  
+  .ocho {
+    background: #5B5C59
+  }
+  
+  .nueve {
+    background: #6D6E6A
+  }
+  
+  .diez {
+    background: #90918D
+  }
+  
+  .once {
+    background: #CACCC6
+  }
+  
+  .doce {
+    background: #FFFFFF
+  }
+  
